@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Spek">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:src="@drawable/tuf"
+            android:layout_height="200dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:text="Spesifikasi Dan Fitur"
+            android:textSize="18sp"
+            android:layout_margin="15dp"
+            android:textColor="@android:color/black"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="15dp"
+            android:text="- AMD Ryzen-5 R5-3550H ( 2.1 Ghz - 3.7 GHz, 4MB L3 Cache )"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="15dp"
+            android:text="- 8 GB DDR4 RAM"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="15dp"
+            android:text="- 1 TB HDD"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="15dp"
+            android:text="- AMD Radeon™ RX 560X , with 4GB, VRAM"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="15dp"
+            android:text="- Windows 10 Home"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="15dp"
+            android:text="- 15.6' Full-HD display ( 1920 x 1080 ), SLIM-BEZEL"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="15dp"
+            android:text="- Dual-Fan Anti-dust cooling system"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="15dp"
+            android:text="- Backlight Keyboard"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="15dp"
+            android:text="- GOLD STEEL"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="15dp"
+            android:text="- Interface: 1 x COMBO audio jack 1 x Type-A USB2.0 2 x Type-A USB 3.1 (Gen 1) 1 x RJ45 LAN jack for LAN insert 1 x HDMI, HDMI support 2.0"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="15dp"
+            android:text="- Audio: Built-in 2 W Stereo Speakers with Array Microphone DTS® Headphone: X®"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="15dp"
+            android:text="- TUF Backpack"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+
+</ScrollView>
